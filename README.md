@@ -1,6 +1,7 @@
-# 💫 About Me:
-![a-modern-workspace-featuring-advanced-technology-including-a-holographic-calendar-and-illuminated-data-streams-creating-an-innovative-and-dynamic-environment-for-productivity-photo](https://github.com/user-attachments/assets/ea6c7097-daaf-40b6-a5e3-a69803effd75)
 
+<img src="https://github.com/user-attachments/assets/ea6c7097-daaf-40b6-a5e3-a69803effd75" width="800">
+
+# 💫 About Me:
 
 👋 Hi, I’m Eray<br><br>🎓 Computer Engineering graduate<br><br>🗄️ Strong background in Oracle SQL, PL/SQL and database administration<br><br>🚀 Interested in backend development, database systems and data engineering<br><br>🧩 Enjoy working on performance tuning, clean backend logic and database-driven applications<br><br>📚 Currently learning backend <br><br>⚙️ Tech Stack<br>🔹 Databases<br><br>Oracle 19c | SQL and PL/SQL | MySQL | SQLite<br><br>🔹 Backend<br><br>Java | JavaScript | Node.js | Express |<br><br>🔹 Frontend<br><br>React | Tailwind CSS | HTML, CSS, JavaScript<br><br><br>🔹 Tools and Systems<br>Linux  |   Shell Scripting | Oracle SQL Developer | Git and GitHub<br><br><br>📫 Contact<br><br>📩 Email: erayatsiz87@gmail.com<br><br>💼 LinkedIn: https://www.linkedin.com/in/eray-ats%C4%B1z-23606b227/
 
